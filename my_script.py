@@ -25,6 +25,8 @@ print(type(is_oilers_awesome))
 
 # Input function
 year_of_birth = input("Input your year of birth please.")
+output_year = 2025 - int(year_of_birth)
+print("Your age is: ", output_year)
 
 # Functions
 # Functions called and used: print, input, int, float, str, bool

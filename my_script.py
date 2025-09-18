@@ -41,3 +41,6 @@ print("Your wage is: ", output_salary)
 
 
 # Print function
+# Working with a separator
+print("Hello", "World", sep=" ", end=" ")
+print("Hello", "World", sep=" ")

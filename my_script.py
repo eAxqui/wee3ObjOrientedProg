@@ -38,3 +38,6 @@ hourly_wage = 30
 
 output_salary = hourly_wage * int(hours_worked)
 print("Your wage is: ", output_salary)
+
+
+# Print function

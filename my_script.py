@@ -44,3 +44,6 @@ print("Your wage is: ", output_salary)
 # Working with a separator
 print("Hello", "World", sep=" ", end=" ")
 print("Hello", "World", sep=" ")
+
+# Division and multiplication always yields float results
+# Any float operation with integer yields float output type

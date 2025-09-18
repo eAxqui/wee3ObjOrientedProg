@@ -24,6 +24,7 @@ print("This statement is 100% true.", type(is_flames_awesome))
 print(type(is_oilers_awesome))
 
 # Input function
+year_of_birth = input("Input your year of birth please.")
 
 # Functions
 # Functions called and used: print, input, int, float, str, bool

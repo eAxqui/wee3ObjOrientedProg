@@ -25,3 +25,5 @@ print(type(is_oilers_awesome))
 
 
 # Functions
+# Functions called and used: print, input, int, float, str, bool
+

@@ -31,3 +31,10 @@ print("Your age is: ", output_year)
 # Functions
 # Functions called and used: print, input, int, float, str, bool
 
+# Salary per hour calculator
+
+hours_worked = input("How many hours did you work today?")
+hourly_wage = 30
+
+output_salary = hourly_wage * int(hours_worked)
+print("Your wage is: ", output_salary)

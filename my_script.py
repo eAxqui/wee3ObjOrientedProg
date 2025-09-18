@@ -7,7 +7,7 @@ floot = 99.9 #Float
 team = "Calgary Flames" #String
 is_flames_awesome = True #Bool
 is_oilers_awesome = False #Bool
-my_new_var = 23 # Int
+my_new_var = 87 # Int
 
 # Printing values of variables
 print(x)

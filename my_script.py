@@ -24,6 +24,8 @@ print("This statement is 100% true.", type(is_flames_awesome))
 print(type(is_oilers_awesome))
 
 
+# Input function
+
 # Functions
 # Functions called and used: print, input, int, float, str, bool
 

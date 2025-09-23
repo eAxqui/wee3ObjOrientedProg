@@ -49,7 +49,7 @@ print("Hello", "World", sep=" ")
 # Any float operation with integer yields float output type
 
 # True or false statements
-bigger_or_smaller = input("Input a number:")
+bigger_or_smaller = input("Input a number bigger than 5:")
 
 if int(bigger_or_smaller) > 5:
     print("Your input was bigger than 5!")

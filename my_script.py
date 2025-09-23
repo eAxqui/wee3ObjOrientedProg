@@ -25,8 +25,8 @@ print(type(is_oilers_awesome))
 
 # Input function
 # year_of_birth = input("Input your year of birth please: ")
-output_year = 2025 - int(year_of_birth)
-print("Your age is: ", output_year)
+#output_year = 2025 - int(year_of_birth)
+#print("Your age is: ", output_year)
 
 # Functions
 # Functions called and used: print, input, int, float, str, bool
@@ -36,8 +36,8 @@ print("Your age is: ", output_year)
 # hours_worked = input("How many hours did you work today?")
 hourly_wage = 30
 
-output_salary = hourly_wage * int(hours_worked)
-print("Your wage is: ", output_salary)
+#output_salary = hourly_wage * int(hours_worked)
+#print("Your wage is: ", output_salary)
 
 
 # Print function
@@ -47,3 +47,9 @@ print("Hello", "World", sep=" ")
 
 # Division and multiplication always yields float results
 # Any float operation with integer yields float output type
+
+# True or false statements
+bigger_or_smaller = input("Input a number:")
+
+if int(bigger_or_smaller) > 5:
+    print("Your input was bigger than 5!")
